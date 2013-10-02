@@ -5,4 +5,3 @@ C:\Users\rtb\Documents\Visual Studio 2010\Projects\HelloGitHub\HelloGitHub\obj\x
 C:\Users\rtb\Documents\Visual Studio 2010\Projects\HelloGitHub\HelloGitHub\obj\x86\Debug\HelloGitHub.csproj.GenerateResource.Cache
 C:\Users\rtb\Documents\Visual Studio 2010\Projects\HelloGitHub\HelloGitHub\obj\x86\Debug\HelloGitHub.exe
 C:\Users\rtb\Documents\Visual Studio 2010\Projects\HelloGitHub\HelloGitHub\obj\x86\Debug\HelloGitHub.pdb
-C:\Users\rtb\Documents\Visual Studio 2010\Projects\HelloGitHub\HelloGitHub\obj\x86\Debug\HelloGitHub.csprojResolveAssemblyReference.cache
