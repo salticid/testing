@@ -18,7 +18,7 @@ namespace HelloGitHub
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Hello Github";
+            label1.Text = "Hello Github!";
             label1.Visible = !label1.Visible;
         }
     }
